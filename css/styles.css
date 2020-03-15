@@ -32,3 +32,9 @@
     font-weight: lighter;
     color: lawngreen;
 }
+.weakness {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: small;
+    color: black;
+}
