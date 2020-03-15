@@ -10,3 +10,11 @@
     text-indent: 0%;
     font-style: italic;
 }
+.li {
+    font-style: oblique;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: coral;
+}
+
